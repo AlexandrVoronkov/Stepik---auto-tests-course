@@ -1,4 +1,2 @@
 # Stepik---auto-tests-course
-Homework
-https://stepik.org/lesson/187065/step/7
-111
+Это репозиторий для хранения домашних работ по курсу автоматизации тестирования на Степике, https://stepik.org/lesson/187065/step/7
